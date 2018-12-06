@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://islinwh.github.io/categories/</loc>
+    <loc>https://islinwh.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://islinwh.github.io/</loc>
+    <loc>https://islinwh.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://islinwh.github.io/tags/</loc>
+    <loc>https://islinwh.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
