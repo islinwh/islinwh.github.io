@@ -6,9 +6,26 @@
     <description>Recent content on Linwh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 17:20:13 +0800</lastBuildDate>
     
 	<atom:link href="https://islinwh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://islinwh.github.io/about/</link>
+      <pubDate>Thu, 06 Dec 2018 17:20:13 +0800</pubDate>
+      
+      <guid>https://islinwh.github.io/about/</guid>
+      <description>1. Introduction 转眼即逝，我在Sun Yat-sen University的四年大学生活即将走到尽头，即将迎来的是我在Peking University的三年研究生活，研究方向是Computer Vision &amp;amp;&amp;amp; Deep Learning。在本科阶段我就有写博客的习惯，所以研究生阶段，我会继续保持写博客的习惯。
+islinwh.github.io是我用hugo生成，并托管在GitPage的个人主页。这篇文章我将记录我对个人主页大大小小的改进，以便我个人的查阅，同时如果你喜欢我的主页风格，这篇文章也可以作为你搭建个人主页的入门教程。
+2. Process 2.1 Enviroment  Mac OS Hugo Homebrew Git  2.2 Installation 使用homebrew安装hugo
+brew install hugo  2.3 Build 使用hugo快速生成站点
+$ cd Document/ $ hugo new site blog  初始化仓库
+$ cd blog/ $ git init  在Hugo Theme选择合适的主题，我选的是Minimal，将它git submodule到theme文件夹
+$ git submodule add https://github.com/calintat/minimal.git themes/minimal $ git submodule init $ git submodule update  以后更新主题的指令如下
+$ git submodule update --remote themes/minimal  安装完成后，将主题的配置文件config.</description>
+    </item>
     
   </channel>
 </rss>
